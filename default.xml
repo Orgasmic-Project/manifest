@@ -1095,7 +1095,8 @@
 
   <include name="snippets/orgasmic.xml" />
 
-
+  <!-- TEMP -->
+  <include name="snippets/fluid-temp.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
