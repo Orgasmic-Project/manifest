@@ -72,6 +72,7 @@
 
   <!-- System -->
   <project path="system/core" name="system_core" groups="pdk" remote="orgasmic" />
+  <project path="system/libhwbinder" name="system_libhwbinder" remote="orgasmic" />
   <project path="system/sepolicy" name="system_sepolicy" remote="orgasmic" />
   <project path="system/update_engine" name="system_update_engine" remote="orgasmic" />
 
